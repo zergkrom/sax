@@ -1,8 +1,26 @@
 # User-specific files
 *.suo
-*.json
+*.cache
+*.vsidx
+*.txt
+*.lock
+*.user
+_ReSharper.*
+bin
+obj
+packages
+Debug
+
 # Visual Studio cache files
 # files ending in .cache can be ignored
 *.[Cc]ache
 # but keep track of directories ending in .cache
 !?*.[Cc]ache/
+sax.projects*.json
+sax.settings*.json
+synapsis.modules*.json
+synapsis.settings*.json
+
+/projects/synapsis/dev/main/.vs/KromSAAI/v17/.suo
+/projects/synapsis/dev/main/.vs/KromSAAI/v17/fileList.bin
+*.cache
